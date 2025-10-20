@@ -3,10 +3,23 @@
   "version": "1.0.0",
   "type": "module",
   "main": "api/chat.js",
-  "scripts": { "start": "node api/chat.js" },
+  "scripts": {
+    "start": "node api/chat.js"
+  },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "openai": "^4.56.0"
-  }
+    "openai": "^4.104.0"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-suzuki-4079/lh-chat-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-suzuki-4079/lh-chat-poc/issues"
+  },
+  "homepage": "https://github.com/h-suzuki-4079/lh-chat-poc#readme"
 }
-
